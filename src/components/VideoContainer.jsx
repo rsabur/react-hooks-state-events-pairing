@@ -18,6 +18,7 @@ function VideoContainer({ title, views, embedUrl = "https://www.youtube.com/embe
             <span>
                 <Buttons />
             </span>
+            <br></br>
         </>
     )
 }
